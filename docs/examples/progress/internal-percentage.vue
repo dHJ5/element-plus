@@ -11,6 +11,7 @@
       :text-inside="true"
       :stroke-width="22"
       :percentage="80"
+      :indeterminate="true"
       status="warning"
     />
     <el-progress
